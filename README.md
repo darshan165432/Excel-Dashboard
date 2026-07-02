@@ -12,3 +12,5 @@
 # 💰 Calculated Average Production Cost per Unit.
 # 📐 Designed a clean and user-friendly dashboard layout.
 # ✅ Developed the entire dashboard using Microsoft Excel only.
+## Demo Image
+![Dashboard Preview](https://github.com/darshan165432/Excel-Dashboard/blob/main/excel%20dashboard.png)
